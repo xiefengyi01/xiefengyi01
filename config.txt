@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "e2c3ba7ed92ab11aa08b1b1fb7982df7",
 # 模板消息id
-"template_id": "KMWvOXOoTcelN5qWQfzv9XiMs1oprH2Z6kRaf9vupbA",
+"template_id": "bpJJbrGLU86P06Mq1TVtZLA3pNdAneYHwIQG4BK1GAE",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oOJms6SrQJV06wa5GcxWPLZjmM7Q"],
 
@@ -17,13 +17,13 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "将乐县",
 # 生日1
-"birthday1": {"name": "小雨", "birthday": "2001-10-24"},
+"birthday1": {"name": "小雨宝宝", "birthday": "2001-10-24"},
 # 生日2
-"birthday2": {"name": "小雨", "birthday": "r2001-09-08"},
+"birthday2": {"name": "小雨宝宝", "birthday": "r2001-09-08"},
 # 在一起的日子，格式同上
 "love_date": "2021-10-30",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
-"note_en": "有人在雨里爱了又爱"
+"有人在雨里爱了又爱": ""
 }
